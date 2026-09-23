@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Doppia Scelta">
+  <rect width="512" height="512" rx="104" fill="#071432"/>
+  <path d="M82 96h159v320H82z" fill="#ff875a"/>
+  <path d="M271 96h159v320H271z" fill="#69d0d4"/>
+  <path d="M241 96l30 320" stroke="#f7f2e8" stroke-width="22"/>
+  <path d="M128 317l46-129 46 129m-76-45h60" fill="none" stroke="#11182b" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M309 189h63c33 0 33 54 0 54h-63zm0 54h69c35 0 35 73 0 73h-69z" fill="none" stroke="#11182b" stroke-width="24" stroke-linejoin="round"/>
+</svg>
+

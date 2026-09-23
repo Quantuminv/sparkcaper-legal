@@ -1,0 +1,16 @@
+{
+  "name": "Doppia Scelta",
+  "short_name": "Doppia Scelta",
+  "description": "Un gioco di scelte segrete per gruppi di amici.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#071432",
+  "theme_color": "#071432",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
+

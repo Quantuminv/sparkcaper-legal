@@ -1,0 +1,62 @@
+{
+  "schema": 1,
+  "app_id": "doppia-scelta",
+  "version": "6175e87369f1c795",
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 1257,
+      "sha256": "a5dbd94650c3fa9ba5e6bf726be327491b3ce8b7e15e70b9bc398ca91af746f2"
+    },
+    {
+      "path": "style.css",
+      "bytes": 5420,
+      "sha256": "763dcf412e641289915e35b71754a5bc1ee8588c3795ce3cb731f2265893d62a"
+    },
+    {
+      "path": "main.js",
+      "bytes": 41832,
+      "sha256": "d973be45b391a79f4752a4b345930866d0fc4f0e18ad53ff4688f414061a4d39"
+    },
+    {
+      "path": "manifest.webmanifest",
+      "bytes": 415,
+      "sha256": "13afa78c829e179ca3eec01b258806dd26565680e27bbaf21de905b7312fc870"
+    },
+    {
+      "path": "icon.svg",
+      "bytes": 618,
+      "sha256": "a9fd0159ce5bd8661cf874ebed9a902bad165e3cb901ea0152885df5d9076765"
+    },
+    {
+      "path": "privacy.html",
+      "bytes": 1203,
+      "sha256": "38a7d8057f92b6b6a52b46a309b22092af3123e8a58b55dba6d36a80c6ebf1a0"
+    },
+    {
+      "path": "support.html",
+      "bytes": 828,
+      "sha256": "64a30997415ce438eb20a69be4efd1da601ac3b3ad7c62ab6e7612331cf7e19b"
+    },
+    {
+      "path": "_redirects",
+      "bytes": 55,
+      "sha256": "6bc173f37c08ef8c71fa8e9589971dad5a89c46cb9830878d3ab75c219818329"
+    },
+    {
+      "path": "_headers",
+      "bytes": 333,
+      "sha256": "d8343fb07d87fbcffd3a66890fef1bba79c4f131dc9cbe071e2670d0bc162c0c"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 24,
+      "sha256": "c70abcf98d7c268caa7a66739104962b1f5304d39762201e1074cacfcaba3134"
+    },
+    {
+      "path": "service-worker.js",
+      "bytes": 1102,
+      "sha256": "25c1fe25c281510d6ab2ed4b5c6f58e999e2d10901e3db52287671b447965a77"
+    }
+  ]
+}

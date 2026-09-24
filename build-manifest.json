@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "app_id": "doppia-scelta",
-  "version": "6175e87369f1c795",
+  "version": "e5c53c4d30585716",
   "files": [
     {
       "path": "index.html",
@@ -30,13 +30,13 @@
     },
     {
       "path": "privacy.html",
-      "bytes": 1203,
-      "sha256": "38a7d8057f92b6b6a52b46a309b22092af3123e8a58b55dba6d36a80c6ebf1a0"
+      "bytes": 3031,
+      "sha256": "c9bd2b7042cdb1e52277b2a42e57773434c8620ffe33af53d1cc9ba62c41bb6d"
     },
     {
       "path": "support.html",
-      "bytes": 828,
-      "sha256": "64a30997415ce438eb20a69be4efd1da601ac3b3ad7c62ab6e7612331cf7e19b"
+      "bytes": 1066,
+      "sha256": "c29d5bad32319853cf72f06c4d82cc35704f760befade47f25a88173d418710b"
     },
     {
       "path": "_redirects",
@@ -56,7 +56,7 @@
     {
       "path": "service-worker.js",
       "bytes": 1102,
-      "sha256": "25c1fe25c281510d6ab2ed4b5c6f58e999e2d10901e3db52287671b447965a77"
+      "sha256": "e389b7288f6775071d6ca7579ae9df6fb3d8b0ce421cf54f647d4cef48aca306"
     }
   ]
 }

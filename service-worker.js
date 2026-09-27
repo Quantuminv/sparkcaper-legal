@@ -1,4 +1,4 @@
-const VERSION = 'e5c53c4d30585716';
+const VERSION = 'f08f06cbf2372e86';
 const CACHE = `doppia-scelta-${VERSION}`;
 const ASSETS = ["./index.html","./style.css","./main.js","./manifest.webmanifest","./icon.svg","./privacy.html","./support.html","./_redirects","./_headers","./robots.txt"];
 
